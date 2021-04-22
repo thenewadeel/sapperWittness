@@ -39,8 +39,8 @@
   }
 
   .contact {
-    /* background-image: url('img-3.webp'); */
-    background: yellowgreen;
+    background-image: url('contact-head.webp');
+    /* background: yellowgreen; */
   }
 
   .offer {

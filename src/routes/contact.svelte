@@ -3,7 +3,7 @@
   import CTA from '../components/CTA.svelte';
   import Title from '../components/PageTitle.svelte';
   import HeroBanner from '../components/HeroBanner.svelte';
-  import ContactForm from '../components/ContactForm.svelte'
+  import ContactForm from '../components/ContactForm.svelte';
 
   let showMore = false;
 
@@ -66,28 +66,27 @@
 </svelte:head>
 
 <HeroBanner
-  bannerSubtitle="A modern tech company focussed on premium solutions"
-  bannerTitle="Contact Us"
+  bannerSubtitle="Write to Witness for consultation and premium solutions "
+  bannerTitle=""
   bannerImg="contact" />
 <section>
   <div class="container">
 
     <div class="grid">
       <div class="grid-item">
-        <Title title="Get in touch for feedback" subTitle="Contact Us" theme="title-dark" />
+        <Title
+          title="Get in touch for feedback"
+          subTitle="Contact Us"
+          theme="title-dark" />
 
         <!-- <CTA
           linkTheme="link-dark"
           linkTitle={showMore ? 'Hide' : 'More. . .'}
           on:click={handleShowMore} /> -->
-<ContactForm />
+        <ContactForm />
       </div>
       <div class="grid-item">
         <img src="/client/contact-us.webp" alt="" />
-        <p>
-
-          Do write
-        </p>
       </div>
     </div>
   </div>
