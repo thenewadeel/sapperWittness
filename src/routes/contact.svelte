@@ -3,6 +3,7 @@
   import CTA from '../components/CTA.svelte';
   import Title from '../components/PageTitle.svelte';
   import HeroBanner from '../components/HeroBanner.svelte';
+  import ContactForm from '../components/ContactForm.svelte'
 
   let showMore = false;
 
@@ -79,7 +80,7 @@
           linkTheme="link-dark"
           linkTitle={showMore ? 'Hide' : 'More. . .'}
           on:click={handleShowMore} /> -->
-
+<ContactForm />
       </div>
       <div class="grid-item">
         <img src="/client/contact-us.webp" alt="" />
