@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 -50 900 350" xml:space="preserve">
+    <g id="98ef14de-996e-4ca7-a601-eeddbc5cdbb5" style="stroke: rgb(10,58,69); fill: rgb(90,168,136);">
+        <rect x="50" y="0" rx="0" ry="0" width="50" height="100" />
+        <rect x="150" y="50" rx="0" ry="0" width="50" height="50" />
+        <rect x="250" y="0" rx="0" ry="0" width="50" height="100" />
+        <rect x="50" y="150" rx="0" ry="0" width="50" height="50" />
+        <rect x="100" y="200" rx="0" ry="0" width="50" height="50" />
+        <rect x="150" y="150" rx="0" ry="0" width="50" height="50" />
+        <rect x="200" y="200" rx="0" ry="0" width="50" height="50" />
+        <rect x="250" y="150" rx="0" ry="0" width="50" height="50" />
+        <text font-family="Lobster" font-size="200" font-weight="800"
+            style="fill: rgb(10,58,69); stroke: rgb(90,168,136);  stroke-width: 4; opacity: 1; white-space: pre;" 
+            x="-330" y="175">
+            <tspan >ittness</tspan>
+        </text>
+    </g>
+</svg>
